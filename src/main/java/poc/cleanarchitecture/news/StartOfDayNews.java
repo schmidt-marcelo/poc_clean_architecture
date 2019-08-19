@@ -1,4 +1,4 @@
-package poc.cleanarchitecture.web;
+package poc.cleanarchitecture.news;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
